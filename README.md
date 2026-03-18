@@ -1,4 +1,4 @@
-# Fix Pavé Tactile Lenovo 14w Gen 2 (Linux)
+# Fix Pavé Tactile / Touchpad Lenovo 14w Gen 2 (Linux)
 
 Correctif pour le bug du **pavé tactile Elan I2C** sur l’ordinateur **Lenovo 14w Gen 2 (AMD)** sous Linux.
 
