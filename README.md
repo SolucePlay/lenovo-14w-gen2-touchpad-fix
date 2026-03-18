@@ -39,7 +39,11 @@ Modifications appliquées :
 
 ### ✔ Option 1 (Recommandée)
 
+1. Exécuter le fichier :
 `sudo bash install.sh`
+
+2. Redémarrer l'ordinateur : 
+`sudo reboot`
 
 ---
 
