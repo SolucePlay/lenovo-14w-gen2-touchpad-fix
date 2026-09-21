@@ -30,7 +30,8 @@ Modifications appliquées :
 
 - **dsdt.dsl** : Source de la DSDT modifiée  
 - **acpi-override.cpio** : Archive prête à être injectée via GRUB  
-- **install.sh** : Script d’installation automatique  
+- **install.sh** : Script d’installation automatique Linux 
+- **install-archlinux.sh** : Script d’installation automatique ArchLinux
 - **LICENSE** : **GNU General Public License v2.0**
 
 ---
