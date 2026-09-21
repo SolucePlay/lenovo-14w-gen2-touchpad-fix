@@ -37,13 +37,26 @@ Modifications appliquées :
 
 ## ⚙️ Installation
 
-### ✔ Option 1 (Recommandée)
+### ✔ Option 1
+
+## Linux
 
 1. Exécuter le fichier :
 `sudo bash install.sh`
 
 2. Redémarrer l'ordinateur : 
 `sudo reboot`
+
+## ArchLinux
+
+1. Autoriser l'exécution du fichier :
+`chmod +x install-archlinux.sh`
+2. Exécuter le fichier :
+`sudo ./install-archlinux.sh`
+3. À la fin, redémarrer :
+`sudo reboot`
+
+
 
 ---
 
